@@ -1,0 +1,13 @@
+.flower iframe {
+    min-height:800px;
+    margin:auto;
+    width:90%;
+    display:block;
+}
+
+img {
+    margin:auto;
+    width:50%;
+    display:block;
+    height:100px;
+}

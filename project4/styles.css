@@ -1,0 +1,7 @@
+
+.songs iframe {
+    min-height:800px;
+    margin:auto;
+    width:90%;
+    display:block;
+}
